@@ -1,6 +1,5 @@
 require "spec_helper"
 
-
 RSpec.describe Point do
   it "has a version number" do
     expect(Point::VERSION).not_to be nil
