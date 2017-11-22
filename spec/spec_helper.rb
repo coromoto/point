@@ -1,4 +1,5 @@
 require "coveralls"
+Coveralls.wear!
 require "bundler/setup"
 require "point"
 
@@ -14,4 +15,3 @@ RSpec.configure do |config|
   end
 end
 
-Coveralls.wear!
