@@ -5,6 +5,7 @@ Permite estudiar los conceptos de programación orientada a objetos.
 
 Coveralls
 Otro cambio
+Nuevo cambio
 
 ## Installation
 
