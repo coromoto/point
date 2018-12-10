@@ -4,6 +4,7 @@ Creación de una gema con la clase que representa un punto en el espacio bidimen
 Permite estudiar los conceptos de programación orientada a objetos.
 
 Poniendo un cambio para comprobar que funciona
+Algo nuevo
 
 ## Installation
 
